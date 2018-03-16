@@ -114,7 +114,7 @@ class Xcloner_Remote_Storage{
 	private $aws_regions = array(							
 								'us-east-1'=>'US East (N. Virginia)',
 								'us-east-2'=>'US East (Ohio)',
-								'us-west-1'=>'US West (N. California)',
+								'us-gov-west-1'=>'US Gov West (N. California)',
 								'us-west-2'=>'US West (Oregon)',
 								'ca-central-1'=>'Canada (Central)',
 								'eu-west-1'=>'EU (Ireland)',
