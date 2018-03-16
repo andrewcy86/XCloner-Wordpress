@@ -570,7 +570,7 @@ class S3Client extends AwsClient implements S3ClientInterface
             "eu-central-1",
             "eu-west-1",
             "us-east-1",
-            "us-west-1",
+            "us-gov-west-1",
             "us-west-2",
             "sa-east-1",
         ];
